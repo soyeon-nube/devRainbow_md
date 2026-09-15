@@ -1,3 +1,7 @@
+# .md 파일
+
+- 모든 .md 파일은 200줄을 넘으면 같은 경로에 별도 .md 파일로 분리하고 여기에 참고 경로를 추가한다.
+
 # 프로젝트 역할
 
 - 프로젝트는 Front-End 퍼블리싱 및 UI 개발 프로젝트
@@ -180,3 +184,9 @@
 - 허용 확장자 : .ppt, .xlsx, .pdf
 - 기본 저장 경로 : D:/project_file/RbAdminCenter
 - 내부 지정한 폴더 내부에 생성
+
+# 퍼블리싱 작업 가이드 (별도 파일)
+
+- 퍼블리싱, Figma 구현, 리포트(NewReport) 화면 작업 시 반드시 함께 확인한다.
+- D:/workspaces/corp-rainbow/Rainbow/Front/RbAdminCenter/PUBLISH_GUIDE.md
+  - Figma 액션 디자인, 이미지(SVG) 경로, CSS 추가/인코딩 규칙, ul 구조, 버튼 비활성화, 412px 모바일 레이아웃, 페이지별 결정사항
